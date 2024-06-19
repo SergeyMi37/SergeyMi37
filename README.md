@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 <!--<h1 align="center">Hi there, I'm <a href="https://community.intersystems.com/post/meet-global-masters-winners-january?page=2#comment-145471#:~:text=About @Sergey Mikhailenko" target="_blank">Sergey</a>👋</h1>-->
-<h1 align="center">Hi there, I'm <a href="https://openexchange.intersystems.com/?search=apptools&sort=r" target="_blank">Sergey</a>👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://openexchange.intersystems.com/?search=apptools&sort=r" target="_new">Sergey</a>👋</h1>
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=apptools-admin)](https://github.com/SergeyMi37/apptools-admin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=apptools-infochest )](https://github.com/SergeyMi37/apptools-infochest )
@@ -14,8 +14,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=appmsw-docbook)](https://github.com/SergeyMi37/appmsw-docbook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=appmsw-forbid-old-passwd)](https://github.com/SergeyMi37/appmsw-forbid-old-passwd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=isc-apptools-lockdown)](https://github.com/SergeyMi37/isc-apptools-lockdown)
+
+<h3 align="center">✨ I am a full stack developer based on <a href="https://docs.intersystems.com/" target="_new">Intersystems technologies</a>
+
 -->
-<h3 align="center">✨ I am a full stack developer based on <a href="https://docs.intersystems.com/" target="_blank">Intersystems technologies</a>
+<h3 align="center">✨ I am a full stack developer based on [Intersystems technologies](https://docs.intersystems.com/)
+
 <!--
  
 https://community.intersystems.com/post/meet-global-masters-winners-january?page=2#comment-145471#:~:text=About @Sergey Mikhailenko

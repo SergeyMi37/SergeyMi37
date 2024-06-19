@@ -14,11 +14,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=appmsw-docbook)](https://github.com/SergeyMi37/appmsw-docbook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=appmsw-forbid-old-passwd)](https://github.com/SergeyMi37/appmsw-forbid-old-passwd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyMi37&repo=isc-apptools-lockdown)](https://github.com/SergeyMi37/isc-apptools-lockdown)
-
-<h3 align="center">✨ I am a full stack developer based on <a href="https://docs.intersystems.com/" target="_new">Intersystems technologies</a>
-
 -->
-<h3 align="center">✨ I am a full stack developer based on [Intersystems technologies](https://docs.intersystems.com/)
+<h3 align="center">✨ I am a full stack developer based on <a href="https://docs.intersystems.com/" target=_blank >Intersystems technologies</a>
+
 
 <!--
  
